@@ -1,5 +1,5 @@
 ﻿//import Counter from '../../src/components/Counter';
-import { Counter } from '../../src/components/Counter'
+import { Counter } from './Counter'
 import { shallow } from 'enzyme';
 import configureStore from 'redux-mock-store';
 import toJson from 'enzyme-to-json';
